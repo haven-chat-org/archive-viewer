@@ -1,5 +1,10 @@
 # Haven Archive Viewer
 
+  <p align="center">
+    <img width="49%" alt="Backup" src="https://github.com/user-attachments/assets/2f069b05-0472-4e5d-a505-a12a9a5f431d" />
+    <img width="49%" alt="Landing Page" src="https://github.com/user-attachments/assets/1826cd29-8172-4e6b-9544-9839982271c2" />
+  </p>
+
 A standalone, offline-first web app for viewing [Haven](https://github.com/haven-chat-org) chat export archives. Everything runs in-browser — no server required, no data leaves your machine.
 
 ## Features
